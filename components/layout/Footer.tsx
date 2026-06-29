@@ -98,7 +98,7 @@ export default function Footer() {
                 <Phone className="w-4 h-4 text-[#F97316]" />
                 94156 60616
               </a>
-              <a href="mailto:Krishnakumar909@gmail.com" className="flex items-center gap-2 text-blue-100 hover:text-white transition-colors">
+              <a href="mailto:Krishnakumarsingh909@gmail.com" className="flex items-center gap-2 text-blue-100 hover:text-white transition-colors">
                 <Mail className="w-4 h-4 text-[#F97316]" />
                 Krishnakumarsingh909@gmail.com
               </a>
