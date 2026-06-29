@@ -100,7 +100,7 @@ export default function Footer() {
               </a>
               <a href="mailto:Krishnakumar909@gmail.com" className="flex items-center gap-2 text-blue-100 hover:text-white transition-colors">
                 <Mail className="w-4 h-4 text-[#F97316]" />
-                Krishnakumar909@gmail.com
+                Krishnakumarsingh909@gmail.com
               </a>
             </div>
           </div>

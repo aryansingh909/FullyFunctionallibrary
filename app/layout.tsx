@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+// @ts-ignore: side-effect CSS import without type declarations
 import './globals.css';
 import ConditionalLayout from '@/components/layout/ConditionalLayout';
 
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
     siteName: 'SRS Digital Library',
     title: 'SRS Digital Library — Study Locally, Earn a University Degree',
     description:
-      'AC reading hall, free WiFi, 24x7 power backup in Barsethi Jaunpur. Authorized Mangalayatan University counselling centre — enroll in BA, BCA, MCA, MBA online programmes.',
+      'AC reading Room, free WiFi, 24x7 power backup in Barsethi Jaunpur. Authorized Mangalayatan University counselling centre — enroll in BA, BCA, MCA, MBA online programmes.',
   },
   twitter: {
     card: 'summary_large_image',
