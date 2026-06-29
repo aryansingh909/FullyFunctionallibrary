@@ -55,7 +55,10 @@ export default function ContactPage() {
                   <div>
                     <div className="font-semibold text-gray-900 mb-0.5">Phone</div>
                     <a href="tel:9415660616" className="text-[#0B3D91] hover:text-[#F97316] font-medium text-lg transition-colors">
-                      94156 60616
+                      +91 94156 60616
+                    </a>
+                    <a href="tel:9415660616" className="text-[#0B3D91] hover:text-[#F97316] font-medium text-lg transition-colors">
+                      +91 9730469473
                     </a>
                   </div>
                 </div>

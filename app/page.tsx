@@ -336,7 +336,10 @@ export default function HomePage() {
                   <div>
                     <div className="font-semibold text-gray-900">Phone</div>
                     <a href="tel:9415660616" className="text-[#0B3D91] hover:text-[#F97316] font-medium transition-colors">
-                      94156 60616
+                      +91 94156 60616
+                    </a>
+                    <a href="tel:9730469473" className="text-[#0B3D91] hover:text-[#F97316] font-medium transition-colors">
+                      +91 9730469473
                     </a>
                   </div>
                 </div>
