@@ -96,7 +96,7 @@ export default function Footer() {
               </div>
               <a href="tel:9415660616" className="flex items-center gap-2 text-blue-100 hover:text-white transition-colors">
                 <Phone className="w-4 h-4 text-[#F97316]" />
-                94156 60616
+                +91 94156 60616
               </a>
               <a href="mailto:Krishnakumarsingh909@gmail.com" className="flex items-center gap-2 text-blue-100 hover:text-white transition-colors">
                 <Mail className="w-4 h-4 text-[#F97316]" />
